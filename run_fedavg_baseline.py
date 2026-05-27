@@ -508,7 +508,7 @@ def main():
 
     MODELS_TO_RUN = [
         "cnn",
-        "lstm"
+        "lstm",
         "inceptiontime",
         "deepconvlstm",
     ]
